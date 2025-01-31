@@ -1,5 +1,9 @@
 # Prevendo-os-resultados-de-um-e-commerce-utilizando-o-Power-BI
 
+![image](https://github.com/user-attachments/assets/bf971d75-79fc-4bc6-ac0b-65eec5cb2031)
+
+![image](https://github.com/user-attachments/assets/621840c7-8443-42ba-9e5a-d56905430fca)
+
 ## Dashboard de Vendas
 
 ## •	Visão Geral:
