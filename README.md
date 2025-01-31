@@ -1,4 +1,4 @@
-# Prevendo-os-resultados-de-um-e-commerce-utilizando-o-Power-BI
+# Prevendo os resultados de um e-commerce utilizando o Power BI
 
 ![image](https://github.com/user-attachments/assets/bf971d75-79fc-4bc6-ac0b-65eec5cb2031)
 
